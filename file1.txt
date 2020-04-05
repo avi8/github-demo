@@ -3,3 +3,6 @@ this is some text
 some new text
 text added after commit
 text added after commit and add operation
+
+
+myNewBranch : Added via new branch myNewBranch
